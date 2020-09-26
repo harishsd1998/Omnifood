@@ -11,6 +11,9 @@ In addition, little bit of jquery is also used for cool animation effects and sm
 
 ***Project-Link:*** https://omnifood.github.io/
 
+![omnifood](https://user-images.githubusercontent.com/71897469/94329256-23afd980-ffd7-11ea-849f-889f74cd06eb.gif)
+
+
 
 
 
