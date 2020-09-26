@@ -1,4 +1,4 @@
-# omnifood.github.io
+# Timely Taste
 It is a Responsive & Static Front End UI application which is coded and designed using **HTML,CSS**.
 In addition, little bit of jquery is also used for cool animation effects and smooth scrolling.
 
