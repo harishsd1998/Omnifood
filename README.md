@@ -8,3 +8,8 @@ In addition, little bit of jquery is also used for cool animation effects and sm
 3. It showcases the *honest feedback* received from the user.
 4. It displays the *subscription plans* for the convenience of the customer.
 5. It has a form through which *details of the user* is collected.
+
+![omnifood](https://user-images.githubusercontent.com/71897469/94328031-e9d9d580-ffcc-11ea-9b86-c2d444fb46a2.gif)
+
+
+
